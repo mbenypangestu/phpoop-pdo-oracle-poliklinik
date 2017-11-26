@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0eed6e5b-bfce-4daa-928f-e9e7db2a1d82" name="Default" comment="" />
+    <ignored path="poliklinik.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="poliklinik" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="rekam_medis.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/rekam_medis.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3420">
+              <caret line="190" column="35" lean-forward="false" selection-start-line="190" selection-start-column="35" selection-end-line="190" selection-end-column="35" />
+              <folding>
+                <marker date="1500626019938" expanded="true" signature="1335:1571" ph="select a.*, ${$this-&gt;table}" />
+                <marker date="1500626019938" expanded="true" signature="1915:2159" ph="select a.*, ${$this-&gt;table}" />
+                <marker date="1500626019938" expanded="true" signature="1915:2162" ph="select a.*, ${$this-&gt;table}" />
+                <marker date="1500626019938" expanded="true" signature="2509:2515" ph="select a.*, ${$this-&gt;table}" />
+                <marker date="1500626019938" expanded="true" signature="2509:2529" ph="select * fro... detailM" />
+                <marker date="1500626019938" expanded="true" signature="2509:2562" ph="select * fro... detail_medical_record" />
+                <marker date="1500626019938" expanded="true" signature="2509:2571" ph="select * fro... detail_medical_record" />
+                <marker date="1500626019938" expanded="true" signature="2509:2572" ph="select * fro... detail_medical_record" />
+                <marker date="1500626019938" expanded="true" signature="2913:2947" ph="select * fro... poli" />
+                <marker date="1500626019938" expanded="true" signature="3295:3325" ph="select * fro... poli" />
+                <marker date="1500626019938" expanded="true" signature="3673:3703" ph="select * fro... obat" />
+                <marker date="1500626019938" expanded="true" signature="4044:4080" ph="select * fro... poli" />
+                <marker date="1500626019938" expanded="true" signature="4421:4457" ph="select * fro... dokter" />
+                <marker date="1500626019938" expanded="true" signature="4823:4899" ph="select * fro... *" />
+                <marker date="1500626019938" expanded="true" signature="4838:4881" ph="select * fro... ${$this-&gt;table}" />
+                <marker date="1500626019938" expanded="true" signature="5446:5713" ph="INSERT INTO ${$this-&gt;table}... " />
+                <marker date="1500626019938" expanded="true" signature="6453:6708" ph="UPDATE ${$th... " />
+                <marker date="1500626019938" expanded="true" signature="7439:7475" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/Config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/admin/dokter/list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dokter.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module/dokter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="133" column="38" lean-forward="false" selection-start-line="133" selection-start-column="38" selection-end-line="133" selection-end-column="38" />
+              <folding>
+                <marker date="1500509952208" expanded="true" signature="1322:1422" ph="select a.*, ${$this-&gt;table}" />
+                <marker date="1500509952208" expanded="true" signature="1766:1860" ph="select a.*, ${$this-&gt;table}" />
+                <marker date="1500509952208" expanded="true" signature="2196:2230" ph="select * fro... poli" />
+                <marker date="1500509952208" expanded="true" signature="2596:2672" ph="select * fro... *" />
+                <marker date="1500509952208" expanded="true" signature="2611:2654" ph="select * fro... ${$this-&gt;table}" />
+                <marker date="1500509952208" expanded="true" signature="2993:3234" ph="INSERT INTO ${$this-&gt;table}... " />
+                <marker date="1500509952208" expanded="true" signature="3974:4229" ph="UPDATE ${$th... " />
+                <marker date="1500509952208" expanded="true" signature="4960:4996" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/admin/dokter/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1926">
+              <caret line="107" column="54" lean-forward="false" selection-start-line="107" selection-start-column="54" selection-end-line="107" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_form_add.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/admin/rekam_medis/_form_add.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1602">
+              <caret line="89" column="115" lean-forward="false" selection-start-line="89" selection-start-column="115" selection-end-line="89" selection-end-column="115" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/admin/cek_rekam_medis/list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="44" column="53" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/admin/rekam_medis/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1008">
+              <caret line="56" column="16" lean-forward="false" selection-start-line="56" selection-start-column="16" selection-end-line="60" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="invoice.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/admin/cek_rekam_medis/invoice.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="invoice.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/admin/rekam_medis/invoice.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="954">
+              <caret line="53" column="21" lean-forward="false" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/assets/css/main.min.css" />
+        <option value="$PROJECT_DIR$/pages/home.php" />
+        <option value="$PROJECT_DIR$/pages/includes/header_topbar.php" />
+        <option value="$PROJECT_DIR$/pages/admin/pasien/_form_add.php" />
+        <option value="$PROJECT_DIR$/module/Crud.php" />
+        <option value="$PROJECT_DIR$/config/config.php" />
+        <option value="$PROJECT_DIR$/module/Poli.php" />
+        <option value="$PROJECT_DIR$/module/config.php" />
+        <option value="$PROJECT_DIR$/module/Config.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/pages/admin/poli/_form_add.php" />
+        <option value="$PROJECT_DIR$/pages/includes/head.php" />
+        <option value="$PROJECT_DIR$/pages/includes/foot.php" />
+        <option value="$PROJECT_DIR$/pages/admin/poli/_js.php" />
+        <option value="$PROJECT_DIR$/module/poli.php" />
+        <option value="$PROJECT_DIR$/pages/admin/dokter/_form_add.php" />
+        <option value="$PROJECT_DIR$/pages/admin/poli/edit.php" />
+        <option value="$PROJECT_DIR$/pages/admin/dokter/edit.php" />
+        <option value="$PROJECT_DIR$/pages/admin/dokter/_js.php" />
+        <option value="$PROJECT_DIR$/pages/admin/dokter/list.php" />
+        <option value="$PROJECT_DIR$/pages/admin/poli/list.php" />
+        <option value="$PROJECT_DIR$/module/dokter.php" />
+        <option value="$PROJECT_DIR$/module/pasien.php" />
+        <option value="$PROJECT_DIR$/pages/admin/pasien/add.php" />
+        <option value="$PROJECT_DIR$/pages/admin/pasien/list.php" />
+        <option value="$PROJECT_DIR$/pages/admin/pasien/_js.php" />
+        <option value="$PROJECT_DIR$/pages/admin/pasien/edit.php" />
+        <option value="$PROJECT_DIR$/pages/admin/obat/_js.php" />
+        <option value="$PROJECT_DIR$/pages/admin/obat/list.php" />
+        <option value="$PROJECT_DIR$/pages/admin/obat/edit.php" />
+        <option value="$PROJECT_DIR$/pages/admin/obat/_form_add.php" />
+        <option value="$PROJECT_DIR$/pages/admin/rekam_medis/list.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/assets/css/mystyle.css" />
+        <option value="$PROJECT_DIR$/pages/admin/rekam_medis/edit.php" />
+        <option value="$PROJECT_DIR$/pages/includes/sidebar.php" />
+        <option value="$PROJECT_DIR$/module/obat.php" />
+        <option value="$PROJECT_DIR$/pages/admin/cek_rekam_medis/_form_add.php" />
+        <option value="$PROJECT_DIR$/module/cek_rekam_medis.php" />
+        <option value="$PROJECT_DIR$/pages/admin/cek_rekam_medis/list.php" />
+        <option value="$PROJECT_DIR$/pages/admin/cek_rekam_medis/edit.php" />
+        <option value="$PROJECT_DIR$/pages/admin/rekam_medis/invoice.php" />
+        <option value="$PROJECT_DIR$/pages/admin/rekam_medis/_form_add.php" />
+        <option value="$PROJECT_DIR$/module/rekam_medis.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="y" value="35" />
+    <option name="width" value="1364" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="poliklinik" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poliklinik" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="poliklinik" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poliklinik" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="poliklinik" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poliklinik" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="poliklinik" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poliklinik" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="poliklinik" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poliklinik" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dokter" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/module" />
+      <recent name="$PROJECT_DIR$/pages/admin" />
+      <recent name="$PROJECT_DIR$/pages/admin/rekam_medis" />
+      <recent name="$PROJECT_DIR$/pages/admin/pasien" />
+      <recent name="$PROJECT_DIR$/pages/admin/poli" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0eed6e5b-bfce-4daa-928f-e9e7db2a1d82" name="Default" comment="" />
+      <created>1500160175559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500160175559</updated>
+      <workItem from="1500160177205" duration="17744000" />
+      <workItem from="1500213554651" duration="7044000" />
+      <workItem from="1500256147401" duration="125000" />
+      <workItem from="1500441738695" duration="26455000" />
+      <workItem from="1500483008711" duration="7346000" />
+      <workItem from="1500504669507" duration="19939000" />
+      <workItem from="1500607518242" duration="8187000" />
+      <workItem from="1500624851897" duration="1170000" />
+      <workItem from="1506491701306" duration="196000" />
+      <workItem from="1507657495270" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="88213000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23125494" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="ReactNative" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/css/main.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="0" column="8410" lean-forward="false" selection-start-line="0" selection-start-column="8410" selection-end-line="0" selection-end-column="8410" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="677" column="1" lean-forward="false" selection-start-line="677" selection-start-column="1" selection-end-line="677" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/plugins/bootstrap/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="2238" column="16" lean-forward="false" selection-start-line="2238" selection-start-column="11" selection-end-line="2238" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="3440" column="7" lean-forward="false" selection-start-line="3440" selection-start-column="1" selection-end-line="3440" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/includes/header_topbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.php.save" />
+    <entry file="file://$PROJECT_DIR$/module/config.php" />
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Crud.php" />
+    <entry file="file://$PROJECT_DIR$/pages/includes/foot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/includes/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="18" column="81" lean-forward="false" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/poli/_form_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="29" column="41" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/poli/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="66" column="38" lean-forward="false" selection-start-line="66" selection-start-column="38" selection-end-line="67" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/poli/_js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="47" column="34" lean-forward="false" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/pasien/_form_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="12" column="79" lean-forward="false" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/pasien/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/pasien/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="40" column="63" lean-forward="false" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/pasien/_js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/pasien/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="54" column="143" lean-forward="false" selection-start-line="54" selection-start-column="143" selection-end-line="54" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/dokter/_form_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/dokter/_js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="25" column="7" lean-forward="false" selection-start-line="25" selection-start-column="7" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/obat/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="32" column="46" lean-forward="false" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/obat/_js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="41" column="5" lean-forward="false" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/rekam_medis/_js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/poli/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="5" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/poli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="61" column="5" lean-forward="false" selection-start-line="61" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <marker date="1500507029317" expanded="true" signature="1318:1344" ph="select * fro... poli" />
+            <marker date="1500507029317" expanded="true" signature="1318:1360" ph="select * fro... poli" />
+            <marker date="1500507029317" expanded="true" signature="1704:1730" ph="select * fro... poli" />
+            <marker date="1500507029317" expanded="true" signature="1704:1742" ph="select * fro... poli" />
+            <marker date="1500507029317" expanded="true" signature="1704:1743" ph="select * fro... poli" />
+            <marker date="1500507029317" expanded="true" signature="2108:2184" ph="select * fro... *" />
+            <marker date="1500507029317" expanded="true" signature="2108:2217" ph="select * fro... *" />
+            <marker date="1500507029317" expanded="true" signature="2123:2166" ph="select * fro... poli" />
+            <marker date="1500507029317" expanded="true" signature="2528:2592" ph="INSERT INTO poli... " />
+            <marker date="1500507029317" expanded="true" signature="2528:2595" ph="INSERT INTO poli... " />
+            <marker date="1500507029317" expanded="true" signature="2528:2598" ph="INSERT INTO poli... " />
+            <marker date="1500507029317" expanded="true" signature="2528:2615" ph="INSERT INTO poli... " />
+            <marker date="1500507029317" expanded="true" signature="2528:2635" ph="INSERT INTO poli... " />
+            <marker date="1500507029317" expanded="true" signature="2528:2637" ph="INSERT INTO poli... " />
+            <marker date="1500507029317" expanded="true" signature="2528:2638" ph="INSERT INTO poli... " />
+            <marker date="1500507029317" expanded="true" signature="2528:2653" ph="INSERT INTO poli... " />
+            <marker date="1500507029317" expanded="true" signature="3394:3502" ph="UPDATE poli " />
+            <marker date="1500507029317" expanded="true" signature="3394:3535" ph="UPDATE poli " />
+            <marker date="1500507029317" expanded="true" signature="3394:3536" ph="UPDATE poli " />
+            <marker date="1500507029317" expanded="true" signature="3400:3502" ph="INSERT INTO poli... " />
+            <marker date="1500507029317" expanded="true" signature="4166:4202" ph="DELETE from " />
+            <marker date="1500507029317" expanded="true" signature="4172:4202" ph="UPDATE poli " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/pasien.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="52" column="59" lean-forward="false" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/rekam_medis/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="108" lean-forward="false" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/mystyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="296" column="3" lean-forward="false" selection-start-line="296" selection-start-column="3" selection-end-line="296" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/obat/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="97" lean-forward="false" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/cek_rekam_medis/_js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/includes/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="54" column="69" lean-forward="false" selection-start-line="54" selection-start-column="69" selection-end-line="54" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/obat/_form_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="55" column="21" lean-forward="false" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/obat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="61" column="5" lean-forward="false" selection-start-line="61" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/cek_rekam_medis/_form_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="15" column="67" lean-forward="false" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/cek_rekam_medis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="66" column="68" lean-forward="false" selection-start-line="66" selection-start-column="68" selection-end-line="66" selection-end-column="68" />
+          <folding>
+            <marker date="1500620752680" expanded="true" signature="1339:1575" ph="select a.*, ${$this-&gt;table}" />
+            <marker date="1500620752680" expanded="true" signature="1919:2163" ph="select a.*, ${$this-&gt;table}" />
+            <marker date="1500620752680" expanded="true" signature="2502:2536" ph="select a.*, ${$this-&gt;table}" />
+            <marker date="1500620752680" expanded="true" signature="2884:2970" ph="select a.*, ${$this-&gt;table}" />
+            <marker date="1500620752680" expanded="true" signature="3306:3340" ph="select * fro... poli" />
+            <marker date="1500620752680" expanded="true" signature="3688:3718" ph="select * fro... poli" />
+            <marker date="1500620752680" expanded="true" signature="4059:4095" ph="select * fro... pasien" />
+            <marker date="1500620752680" expanded="true" signature="4436:4472" ph="select * fro... dokter" />
+            <marker date="1500620752680" expanded="true" signature="4838:4914" ph="select * fro... *" />
+            <marker date="1500620752680" expanded="true" signature="4853:4896" ph="select * fro... ${$this-&gt;table}" />
+            <marker date="1500620752680" expanded="true" signature="5431:5698" ph="INSERT INTO ${$this-&gt;table}... " />
+            <marker date="1500620752680" expanded="true" signature="6675:6722" ph="UPDATE ${$th... " />
+            <marker date="1500620752680" expanded="true" signature="6873:7007" ph="INSERT INTO ${$this-&gt;table}... " />
+            <marker date="1500620752680" expanded="true" signature="7112:7188" ph="UPDATE ${$th... " />
+            <marker date="1500620752680" expanded="true" signature="7944:8199" ph="UPDATE ${$th... " />
+            <marker date="1500620752680" expanded="true" signature="8971:9037" ph="UPDATE ${$th... " />
+            <marker date="1500620752680" expanded="true" signature="9782:9818" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/cek_rekam_medis/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="44" column="53" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/cek_rekam_medis/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="49" lean-forward="false" selection-start-line="0" selection-start-column="49" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/cek_rekam_medis/invoice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/rekam_medis/invoice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="954">
+          <caret line="53" column="21" lean-forward="false" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/rekam_medis/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="56" column="16" lean-forward="false" selection-start-line="56" selection-start-column="16" selection-end-line="60" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/rekam_medis/_form_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1602">
+          <caret line="89" column="115" lean-forward="false" selection-start-line="89" selection-start-column="115" selection-end-line="89" selection-end-column="115" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/rekam_medis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3420">
+          <caret line="190" column="35" lean-forward="false" selection-start-line="190" selection-start-column="35" selection-end-line="190" selection-end-column="35" />
+          <folding>
+            <marker date="1500626019938" expanded="true" signature="1335:1571" ph="select a.*, ${$this-&gt;table}" />
+            <marker date="1500626019938" expanded="true" signature="1915:2159" ph="select a.*, ${$this-&gt;table}" />
+            <marker date="1500626019938" expanded="true" signature="1915:2162" ph="select a.*, ${$this-&gt;table}" />
+            <marker date="1500626019938" expanded="true" signature="2509:2515" ph="select a.*, ${$this-&gt;table}" />
+            <marker date="1500626019938" expanded="true" signature="2509:2529" ph="select * fro... detailM" />
+            <marker date="1500626019938" expanded="true" signature="2509:2562" ph="select * fro... detail_medical_record" />
+            <marker date="1500626019938" expanded="true" signature="2509:2571" ph="select * fro... detail_medical_record" />
+            <marker date="1500626019938" expanded="true" signature="2509:2572" ph="select * fro... detail_medical_record" />
+            <marker date="1500626019938" expanded="true" signature="2913:2947" ph="select * fro... poli" />
+            <marker date="1500626019938" expanded="true" signature="3295:3325" ph="select * fro... poli" />
+            <marker date="1500626019938" expanded="true" signature="3673:3703" ph="select * fro... obat" />
+            <marker date="1500626019938" expanded="true" signature="4044:4080" ph="select * fro... poli" />
+            <marker date="1500626019938" expanded="true" signature="4421:4457" ph="select * fro... dokter" />
+            <marker date="1500626019938" expanded="true" signature="4823:4899" ph="select * fro... *" />
+            <marker date="1500626019938" expanded="true" signature="4838:4881" ph="select * fro... ${$this-&gt;table}" />
+            <marker date="1500626019938" expanded="true" signature="5446:5713" ph="INSERT INTO ${$this-&gt;table}... " />
+            <marker date="1500626019938" expanded="true" signature="6453:6708" ph="UPDATE ${$th... " />
+            <marker date="1500626019938" expanded="true" signature="7439:7475" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/dokter/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/dokter/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1926">
+          <caret line="107" column="54" lean-forward="false" selection-start-line="107" selection-start-column="54" selection-end-line="107" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/dokter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="133" column="38" lean-forward="false" selection-start-line="133" selection-start-column="38" selection-end-line="133" selection-end-column="38" />
+          <folding>
+            <marker date="1500509952208" expanded="true" signature="1322:1422" ph="select a.*, ${$this-&gt;table}" />
+            <marker date="1500509952208" expanded="true" signature="1766:1860" ph="select a.*, ${$this-&gt;table}" />
+            <marker date="1500509952208" expanded="true" signature="2196:2230" ph="select * fro... poli" />
+            <marker date="1500509952208" expanded="true" signature="2596:2672" ph="select * fro... *" />
+            <marker date="1500509952208" expanded="true" signature="2611:2654" ph="select * fro... ${$this-&gt;table}" />
+            <marker date="1500509952208" expanded="true" signature="2993:3234" ph="INSERT INTO ${$this-&gt;table}... " />
+            <marker date="1500509952208" expanded="true" signature="3974:4229" ph="UPDATE ${$th... " />
+            <marker date="1500509952208" expanded="true" signature="4960:4996" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

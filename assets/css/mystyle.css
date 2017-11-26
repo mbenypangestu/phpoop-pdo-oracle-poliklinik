@@ -1,0 +1,12 @@
+.navbar-brand:hover {
+    color: #383737 !important;
+}
+.content-title {
+    display: inline-block;
+}
+.btn-back {
+    margin-top: 25px;
+}
+.attribute {
+    margin-bottom: 15px;
+}
